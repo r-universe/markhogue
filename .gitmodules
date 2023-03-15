@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "radsafer"]
-	path = radsafer
-	url = https://github.com/markhogue/radsafer
-	shallow = true
-	registered = true
 [submodule "RadData"]
 	path = RadData
 	url = https://github.com/markhogue/raddata
+	shallow = true
+	registered = true
+[submodule "radsafer"]
+	path = radsafer
+	url = https://github.com/markhogue/radsafer
 	shallow = true
 	registered = true
