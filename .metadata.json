@@ -1,10 +1,10 @@
 [
   {
-    "package": "RadData",
+    "package": "radsafer",
     "oncran": true
   },
   {
-    "package": "radsafer",
+    "package": "RadData",
     "oncran": true
   }
 ]
