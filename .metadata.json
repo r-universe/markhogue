@@ -1,5 +1,9 @@
 [
   {
+    "package": "AeroSampleR",
+    "oncran": true
+  },
+  {
     "package": "RadData",
     "oncran": true
   },
