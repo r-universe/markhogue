@@ -8,6 +8,9 @@
 [submodule "RadData"]
 	path = RadData
 	url = https://github.com/markhogue/raddata
+[submodule "blindspiker"]
+	path = blindspiker
+	url = https://github.com/markhogue/blindspiker
 [submodule "radsafer"]
 	path = radsafer
 	url = https://github.com/markhogue/radsafer
